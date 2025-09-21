@@ -317,9 +317,9 @@ mypy src/opforge
 
 ## 📧 联系方式
 
-- 项目主页: [https://github.com/your-repo/OpForge](https://github.com/your-repo/OpForge)
-- 问题反馈: [Issues](https://github.com/your-repo/OpForge/issues)
-- 邮箱: team@opforge.ai
+- 项目主页: [https://github.com/hahahai22/OpForge](https://github.com/hahahai22/OpForge.git)
+- 问题反馈: [Issues](https://github.com/hahahai22/OpForge/issues)
+- 邮箱: team@opforge.ai   # 联系我们，未更新的邮箱，请使用GitHub Issues提交问题。
 
 ---
 
